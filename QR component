@@ -1,0 +1,10 @@
+echo "# QR-CardComponent" >> README.md
+C:\Users\katle\OneDrive\Desktop\qr-code-component-main
+git init
+git add README.md
+git add index.html
+git add style-guide.css
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/En-route/QR-CardComponent.git
+git push -u origin main
